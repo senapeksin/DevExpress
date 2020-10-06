@@ -1,0 +1,212 @@
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.BaseForms.BaseKartForm.resources
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.BaseForms.BaseKartlarForm.resources
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Properties.Resources.resources
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.csproj.GenerateResource.Cache
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.exe.licenses
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.UI.Win.exe.config
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.UI.Win.exe
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.UI.Win.pdb
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.exe
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.pdb
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.UserControls.Navigators.InsUptNavigator.resources
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.UserControls.Navigators.LongNavigator.resources
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.UserControls.Navigators.SmallNavigator.resources
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.OkulForms.OkulKarti.resources
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.OkulForms.OkulKartlari.resources
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.UI.Win.exe.config
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.UI.Win.exe
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.UI.Win.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.csprojAssemblyReference.cache
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Properties.Resources.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.UserControls.Navigators.InsUptNavigator.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.UserControls.Navigators.LongNavigator.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.UserControls.Navigators.SmallNavigator.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.csproj.GenerateResource.cache
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.exe.licenses
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.csproj.CopyComplete
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.exe
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.GenelForms.AnaForm.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Bll.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Model.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Data.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.Dal.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Common.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Bll.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Model.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Data.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.Dal.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Common.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\bin\Debug\SenaYazilim.OgrenciTakip.Model.dll.config
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.BaseForms.BaseEditForm.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.BaseForms.BaseListForm.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.OkulForms.OkulEditForm.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.OkulForms.OkulListForm.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.IlceForms.IlceEditForm.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.IlceForms.IlceListForm.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.IlForms.IlEditForm.resources
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.UI.Win\obj\Debug\SenaYazilim.OgrenciTakip.UI.Win.Forms.IlForms.IlListForm.resources

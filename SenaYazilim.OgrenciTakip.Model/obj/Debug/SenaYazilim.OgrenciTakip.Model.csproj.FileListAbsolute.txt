@@ -1,0 +1,16 @@
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\SenaYazilim.OgrenciTakip.Model.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\SenaYazilim.OgrenciTakip.Model.pdb
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\obj\Debug\SenaYazilim.OgrenciTakip.Model.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\obj\Debug\SenaYazilim.OgrenciTakip.Model.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\SenaYazilim.OgrenciTakip.Model.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\SenaYazilim.OgrenciTakip.Model.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\obj\Debug\SenaYazilim.OgrenciTakip.Model.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\obj\Debug\SenaYazilim.OgrenciTakip.Model.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\SenaYazilim.OgrenciTakip.Model.dll.config
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\EntityFramework.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\EntityFramework.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\obj\Debug\SenaYazilim.OgrenciTakip.Model.csproj.CopyComplete
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\obj\Debug\SenaYazilim.OgrenciTakip.Model.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Model\obj\Debug\SenaYazilim.OgrenciTakip.Model.csprojAssemblyReference.cache

@@ -1,0 +1,19 @@
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\SenaYazilim.OgrenciTakip.Data.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\SenaYazilim.OgrenciTakip.Data.pdb
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\obj\Debug\SenaYazilim.OgrenciTakip.Data.csprojResolveAssemblyReference.cache
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\obj\Debug\SenaYazilim.OgrenciTakip.Data.dll
+C:\Users\SENA\documents\visual studio 2015\Projects\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\obj\Debug\SenaYazilim.OgrenciTakip.Data.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\SenaYazilim.OgrenciTakip.Data.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\SenaYazilim.OgrenciTakip.Data.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\EntityFramework.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\SenaYazilim.OgrenciTakip.Model.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\SenaYazilim.OgrenciTakip.Model.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\EntityFramework.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\obj\Debug\SenaYazilim.OgrenciTakip.Data.csprojAssemblyReference.cache
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\obj\Debug\SenaYazilim.OgrenciTakip.Data.csproj.CopyComplete
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\obj\Debug\SenaYazilim.OgrenciTakip.Data.dll
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\obj\Debug\SenaYazilim.OgrenciTakip.Data.pdb
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\bin\Debug\SenaYazilim.OgrenciTakip.Model.dll.config
+C:\Users\SENA\Desktop\TEZ\SenaYazilimOgrenciTakip\SenaYazilim.OgrenciTakip.Data\obj\Debug\SenaYazilim.OgrenciTakip.Data.csproj.CoreCompileInputs.cache

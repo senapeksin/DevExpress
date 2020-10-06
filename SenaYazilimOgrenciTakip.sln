@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenaYazilim.Dal", "SenaYazilim.Dal\SenaYazilim.Dal.csproj", "{1E8E24BA-2235-49FC-9F3E-3D4049C6B55F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenaYazilim.OgrenciTakip.Bll", "SenaYazilim.OgrenciTakip.Bll\SenaYazilim.OgrenciTakip.Bll.csproj", "{304F9135-D007-490A-B4FA-36B0E3057697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenaYazilim.OgrenciTakip.UI.Win", "SenaYazilim.OgrenciTakip.UI.Win\SenaYazilim.OgrenciTakip.UI.Win.csproj", "{B5128FA4-F3F1-4D89-81A0-6AE42E9CC40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenaYazilim.OgrenciTakip.Data", "SenaYazilim.OgrenciTakip.Data\SenaYazilim.OgrenciTakip.Data.csproj", "{BB6BEA52-E393-42D9-BE26-FD62FF2F08F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenaYazilim.OgrenciTakip.Model", "SenaYazilim.OgrenciTakip.Model\SenaYazilim.OgrenciTakip.Model.csproj", "{74338CFD-44EA-43AF-920D-D3BA607AB0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenaYazilim.OgrenciTakip.Common", "SenaYazilim.OgrenciTakip.Common\SenaYazilim.OgrenciTakip.Common.csproj", "{5C12B0B5-8E2F-43C5-9CD7-139F57594675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8E24BA-2235-49FC-9F3E-3D4049C6B55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8E24BA-2235-49FC-9F3E-3D4049C6B55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8E24BA-2235-49FC-9F3E-3D4049C6B55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8E24BA-2235-49FC-9F3E-3D4049C6B55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304F9135-D007-490A-B4FA-36B0E3057697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304F9135-D007-490A-B4FA-36B0E3057697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304F9135-D007-490A-B4FA-36B0E3057697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304F9135-D007-490A-B4FA-36B0E3057697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5128FA4-F3F1-4D89-81A0-6AE42E9CC40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5128FA4-F3F1-4D89-81A0-6AE42E9CC40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5128FA4-F3F1-4D89-81A0-6AE42E9CC40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5128FA4-F3F1-4D89-81A0-6AE42E9CC40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6BEA52-E393-42D9-BE26-FD62FF2F08F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6BEA52-E393-42D9-BE26-FD62FF2F08F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6BEA52-E393-42D9-BE26-FD62FF2F08F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6BEA52-E393-42D9-BE26-FD62FF2F08F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74338CFD-44EA-43AF-920D-D3BA607AB0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74338CFD-44EA-43AF-920D-D3BA607AB0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74338CFD-44EA-43AF-920D-D3BA607AB0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74338CFD-44EA-43AF-920D-D3BA607AB0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C12B0B5-8E2F-43C5-9CD7-139F57594675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C12B0B5-8E2F-43C5-9CD7-139F57594675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C12B0B5-8E2F-43C5-9CD7-139F57594675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C12B0B5-8E2F-43C5-9CD7-139F57594675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
